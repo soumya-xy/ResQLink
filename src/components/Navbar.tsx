@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
             <AlertTriangle className="h-6 w-6 text-resqlink-orange animate-pulse-subtle" />
             <span className="relative">
               <span>ResQ</span>
-              <span className="text-resqlink-green">Link</span>
+              <span className="text-resqlink-green">Vision</span>
               <span className="absolute -top-1 -right-2 w-1.5 h-1.5 bg-resqlink-orange rounded-full animate-ping-subtle opacity-75"></span>
             </span>
           </Link>
