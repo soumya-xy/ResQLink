@@ -21,6 +21,8 @@ import {
 } from 'lucide-react';
 import DisasterCard, { DisasterEvent } from '../components/DisasterCard';
 import Map from '../components/Map';
+import { Badge } from '../components/ui/badge';
+
 
 // Sample disaster events data
 const disasterEvents: DisasterEvent[] = [
