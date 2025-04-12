@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Layout from "../components/Layout";
-import SOSForm from "./report";
+import SOSForm from "./Report";
 import { Link, useNavigate } from 'react-router-dom';
 
 function User() {
